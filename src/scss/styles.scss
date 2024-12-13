@@ -1,0 +1,16 @@
+img {
+    max-width:100%;
+    height:auto;
+}
+
+.flex-col {
+    flex-direction:column;
+}
+
+.cv-section {
+    padding-block: 3rem;
+}
+.sticky {
+    position:sticky;
+    top:2%;
+}
